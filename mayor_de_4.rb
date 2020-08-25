@@ -10,6 +10,7 @@ elsif numero_2>=numero_1 and numero_2>=numero_3 and numero_2>=numero_4
 elsif numero_3>=numero_1 and numero_3>=numero_2 and numero_3>=numero_4
     puts"#{numero_3} "
 else 
+    numero_4>=numero_1 and numero_4>=numero_2 and numero_4>=numero_3
     puts"#{numero_4} "
 
 end
